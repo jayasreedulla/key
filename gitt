@@ -21,3 +21,34 @@ git push - u origin main
 for pull :
 add file-create new file-type something-commit changes
 git pull origin
+
+
+
+
+
+push
+git init
+git status
+git add .
+git commit -m "hello"
+git branch -M main
+git remote add origin paste link
+git pull origin main
+git add .
+git commit
+git push -u origin main --force
+
+pull 
+mkdir demo
+cd demo
+pwd
+mkdir changes
+cd changes
+pwd
+git init
+git pull paste link
+git add .
+git commit -m "changes made"
+git remote add origin paste link
+git remote -v
+git push -u origin master
