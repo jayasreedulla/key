@@ -1,0 +1,23 @@
+for push :
+pwd
+cd d
+mkdir pot
+cd pot
+mkdir rep2
+pwd
+cd rep2
+pwd
+notepad file1.txt
+ls 
+git init
+git add file1.txt
+git status
+git config--global username"gmail"
+git commit -m "start"
+git branc -m main
+git push - u origin main
+
+
+for pull :
+add file-create new file-type something-commit changes
+git pull origin
