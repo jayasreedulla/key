@@ -38,3 +38,14 @@ EXPOSE 80
 # Run Nginx in the foreground (default command for the Nginx container)
 CMD ["nginx", "-g", "daemon off;"]
 docker build -t monday
+
+
+
+
+create folder-enter- right click- new -text document-double click -notepad lo python program-document-notepad lo html code-new-open in terminal-ren docker file.txt dockerfile
+docker build -t python312-tt .
+docker run
+docker login
+docker tag username/python312-tt
+docker-push ''
+docker run python312-tt
